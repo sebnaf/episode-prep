@@ -5,6 +5,7 @@
   - ILS
   - GPS (Assisted)
   - MLS /* war mal angedacht, wurde aber von der GPS-Euphorie verdrängt
+  - ILS in Kombination mit RA (Radio Altimeter)
 
 * Funktionsweise ILS
   - Localizer + Slope /* bietet irre viel Stoff, denke das wird der Hauptteil
